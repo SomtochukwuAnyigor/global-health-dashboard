@@ -86,4 +86,5 @@ with col_b:
 # 8. Footer
 st.info("📊 **Source Integrity:** Data cross-referenced with UNICEF Joint Malnutrition Estimates (2024) and NDHS 2023-24.")
 st.sidebar.markdown("---")
+
 st.sidebar.write("✅ **Portfolio Status:** Deployment Ready")
