@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Project Overview
-<img width="1366" height="768" alt="Somto&#39;s first local data science project (Dashboard)" src="https://github.com/user-attachments/assets/e1a95684-1924-4ffa-82cb-c6cd1adfa621" />
+<img width="1355" height="606" alt="Somto&#39;s first local data science project (Global Nutrition Dashboard)" src="https://github.com/user-attachments/assets/a15fa97c-70ab-4cad-a9c9-f5b76d191c57" />
 
 This interactive dashboard analyzes the global landscape of **Infant and Young Child Feeding (IYCF)** indicators, specifically focusing on the correlation between **Exclusive Breastfeeding (EBF)** rates and **Chronic Malnutrition (Stunting)**. 
 
@@ -41,5 +41,5 @@ Data is cross-referenced from the **UNICEF/WHO Joint Malnutrition Estimates (202
 
 ## 📬 Contact & Collaboration
 I am currently seeking opportunities to apply my clinical background to data-driven health projects.
-* **LinkedIn:** [https://www.linkedin.com/in/somto-clinical-data/]
+* **LinkedIn:** [[https://www.linkedin.com/in/somto-clinical-data/]](https://www.linkedin.com/in/somto-clinical-data/)
 * **App Link:** [https://global-health-dashboard.streamlit.app/](https://global-health-dashboard.streamlit.app/)
